@@ -1,5 +1,6 @@
 ﻿using HellowWorld;
 using HellowWorld.Math;
+using Enum = HellowWorld.Enum;
 
 namespace HelloWorld
     {
@@ -16,6 +17,8 @@ namespace HelloWorld
             var Calculator = new Calculator();
 
             Console.WriteLine(Calculator.Add(2, 3));
+
+            var myEnum = new Enum();
         }
     }
 }
