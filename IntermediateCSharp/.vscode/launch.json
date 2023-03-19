@@ -10,9 +10,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/HellowWorld/HellowWorld/bin/Debug/net6.0/HellowWorld.dll",
+      "program": "${workspaceFolder}/bin/Debug/net7.0/IntermediateCSharp.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/HellowWorld/HellowWorld",
+      "cwd": "${workspaceFolder}",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
       "console": "internalConsole",
       "stopAtEntry": false
