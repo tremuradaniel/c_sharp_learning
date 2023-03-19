@@ -19,6 +19,8 @@ namespace HelloWorld
             Console.WriteLine(Calculator.Add(2, 3));
 
             var myEnum = new Enum();
+
+            RefernceVsValue.test();
         }
     }
 }
